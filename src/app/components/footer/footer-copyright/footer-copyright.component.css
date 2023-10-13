@@ -1,0 +1,15 @@
+.footer-copyright {
+    display: grid;
+    grid-template-columns: auto 20px;
+    margin-top: 10px;
+    grid-gap: 10px;
+    border-bottom: 1px solid #afafafd3;
+}
+
+.footer-copyright p {
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
